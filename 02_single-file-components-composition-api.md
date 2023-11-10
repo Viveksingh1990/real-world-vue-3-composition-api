@@ -610,3 +610,10 @@ Let’s ReVue
 -----------
 
 We’ve covered a lot. We learned what a single file .vue component is, how it’s composed (with `scoped` versus global styles), and how to start using these .vue components to build up a Vue app. In the next lesson, we’re going to dive deeper into the essentials of Vue Router to better understand how to set up app navigation. See you there!
+
+**Lesson Resources**
+
+Source Code:
+* [Starting Code](https://github.com/Code-Pop/Real-World-Vue-3-New-Syntax/tree/L3-start)
+* [Ending Code](https://github.com/Code-Pop/Real-World-Vue-3-New-Syntax/tree/L3-end)
+
